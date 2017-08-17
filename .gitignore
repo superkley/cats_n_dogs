@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+.venv/
+venv/
+backend/static/build/*
+!backend/static/build/.gitkeep
+!backend/static/build/bundle.js
+__pycache__/

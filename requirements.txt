@@ -1,0 +1,11 @@
+flask
+gevent
+gunicorn
+Pillow
+scikit-learn
+scipy
+numpy
+tqdm
+tensorflow
+keras
+h5py
